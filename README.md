@@ -10,7 +10,6 @@ Add additional notes about how to deploy this on a live system
 
 * [FontAwesome](https://fontawesome.com/) - It's awesome!
 * [Bootstrap](https://getbootstrap.com/) - Strap dem' boots on!
-* []
 
 ## Authors
 
